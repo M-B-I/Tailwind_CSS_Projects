@@ -1,6 +1,6 @@
 <h1>Here is the Output of the code<h1/>
 
-<img src="![C00apture](https://github.com/M-B-I/Tailwind_CSS_Projects/assets/91153075/46457a45-0e7e-49f2-8514-771afd83c9f6" />
+![C00apture](https://github.com/M-B-I/Tailwind_CSS_Projects/assets/91153075/46457a45-0e7e-49f2-8514-771afd83c9f6
 
 
 
