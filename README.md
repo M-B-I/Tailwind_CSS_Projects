@@ -1,3 +1,10 @@
+<h1>Here is the Output of the code<h1/>
+
+
+![C00apture](https://github.com/M-B-I/Tailwind_CSS_Projects/assets/91153075/3e4e9bee-ccc5-471e-9987-32318c25977d)
+
+
+
 <div align="center">
   <br />
     <a href="https://youtu.be/tS7upsfuxmo?feature=shared" target="_blank">
@@ -446,6 +453,8 @@ And if you're hungry for more than just a course and want to understand how we l
 </a>
 
 #
-#   T a i l w i n d _ C S S _ P r o j e c t s  
- #   T a i l w i n d _ C S S _ P r o j e c t s  
+#   T a i l w i n d _ C S S _ P r o j e c t s 
+ 
+ #   T a i l w i n d _ C S S _ P r o j e c t s 
+ 
  
